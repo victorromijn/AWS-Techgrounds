@@ -1,0 +1,3 @@
+def zelfgemaaktefunctie(x):#met def deninieer je de waarde van het zelfgemaakte functie. Alles wat voor  () staat, wordt een functie. Alles tussen de () is een waarde. Die waarde kan een stuk tekst zijn -ook wel str tring genaamd- of een getal, -ook wel int of integer genoemd-. Met de x tussen de () geven we aan, dat we die waarde op een later moment gaan invoeren.
+    print(x+"alles goed") #ook hier geven we de waarde van x nog niet in
+zelfgemaaktefunctie("hallo allemaal, ") # hier roepen de we functie op, of activeren we deze door het in een regel op te schrijven. Vervolgens geven we een waarde in de vorm van tekst. Vandaar dat we het tussen aanhalingstekens plaatsen.
