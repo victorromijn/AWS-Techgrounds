@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T09:56:45.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ucGqMcxHnN6eYX7NKU7v" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T10:08:25.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="t-HtTkjtC0Ry1Ii4t-VE" version="15.9.4" type="github">
   <diagram id="mj5j3Ta5XQgOwfbZ-XNI" name="Page-1">
     <mxGraphModel dx="1483" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="3-Ja3zfgAtnqCm58jpz--60" value="Subnet:ACL" style="shape=mxgraph.ibm.box;prType=subnet;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F5D8A;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="623.75" y="-245.42000000000002" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3-Ja3zfgAtnqCm58jpz--62" value="AWS Shield" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.shield;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry y="-10" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
